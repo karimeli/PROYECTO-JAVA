@@ -1,4 +1,4 @@
-const Dato = require('./Dato');
+const Dato = require('./presupuesto/js/Dato');
 
 class Egreso extends Dato {
     static contadorEgresos = 0;
